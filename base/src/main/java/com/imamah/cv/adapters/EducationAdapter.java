@@ -1,4 +1,4 @@
-package com.ahmad.cv.adapters;
+package com.imamah.cv.adapters;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,8 +13,8 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.ahmad.cv.model.DemoItem;
-import com.ahmad.cv.base.R;
+import com.imamah.cv.model.DemoItem;
+import com.imamah.cv.base.R;
 
 import java.util.List;
 public class EducationAdapter extends RecyclerView.Adapter {

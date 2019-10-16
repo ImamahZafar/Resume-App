@@ -1,4 +1,4 @@
-package com.ahmad.cv.fragments;
+package com.imamah.cv.fragments;
 
 import android.content.Context;
 import android.net.Uri;
@@ -12,10 +12,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ahmad.cv.adapters.AchievementAdapter;
-import com.ahmad.cv.adapters.EducationAdapter;
-import com.ahmad.cv.base.R;
-import com.ahmad.cv.model.DemoItem;
+import com.imamah.cv.adapters.AchievementAdapter;
+import com.imamah.cv.adapters.EducationAdapter;
+import com.imamah.cv.base.R;
+import com.imamah.cv.model.DemoItem;
 
 import java.util.ArrayList;
 import java.util.List;

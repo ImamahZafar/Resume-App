@@ -1,4 +1,4 @@
-package com.ahmad.cv.activities;
+package com.imamah.cv.activities;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
@@ -6,16 +6,16 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 
-import com.ahmad.cv.adapters.AchievementAdapter;
-import com.ahmad.cv.fragments.Achievement;
+import com.imamah.cv.adapters.AchievementAdapter;
+import com.imamah.cv.fragments.Achievement;
 import com.google.android.material.appbar.CollapsingToolbarLayout;
 import com.google.android.material.tabs.TabLayout;
 import com.rhexgomez.typer.roboto.TyperRoboto;
-import com.ahmad.cv.adapters.ViewPagerAdapter;
-import com.ahmad.cv.base.R;
-import com.ahmad.cv.fragments.AboutFragment;
-import com.ahmad.cv.fragments.EducationFragment;
-import com.ahmad.cv.fragments.ProfessionFragment;
+import com.imamah.cv.adapters.ViewPagerAdapter;
+import com.imamah.cv.base.R;
+import com.imamah.cv.fragments.AboutFragment;
+import com.imamah.cv.fragments.EducationFragment;
+import com.imamah.cv.fragments.ProfessionFragment;
 import com.squareup.picasso.Picasso;
 
 import androidx.annotation.RequiresApi;
