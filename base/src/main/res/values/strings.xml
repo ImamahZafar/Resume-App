@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Imamah\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Imamah Zafar</string>
+    <string name="resume_title">Student | Aspiring Software Engineer</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">imamahzafar99@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923335552660</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/imamah-zafar/</string>
+    <string name="Linkedin_UserName">ImamahZafar</string>
+    <string name="Github_UserName">ImamahZafar</string>
+    <string name="Github_IdLink">https://github.com/ImamahZafar</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">Imamah Zafar</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/12132191/imamah-zafar</string>
+    <string name="education">Education</string>
+    <string name="answer">I am currently enrolled in one of the top IT universities of Pakistan, FAST NUCES, doing bachelors in Computer Science. I am eager to explore new opportunities and make my mark in the IT industry.    </string>
+    <string name="answer1">I\'m accountable at my work. My priority is to make sure that whatever I develop or contribute into; should be of the highest quality.
+       </string>
+    <string name="experience_title">Senior Software Engineer</string>
+    <string name="experience_description"> As a Deputy Head my responsibilities included managing a team of volunteers, contacting HR members of top IT companies in Lahore and try to get sponsorship for the biggest IT event in Pakistan </string>
+    <string name="why_i_did_choose_work_1">"\u2713 Because I need to cache the image\n""\u2713 Design pattern - unit testing easier and lesser\n"\u0020 \u0020 "code size than MVP\n""\u2713 Design pattern - Easier for unit testing\n""\u2713 Save data in a local database using Room\n""\u2713 Firebase provides a realtime database and \n"\u0020 \u0020 "backend as a service"
+
+    </string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">SOFTEC</string>
+    <string name="experience_description1">I am an executive team member of SOFTEC which is one of Pakistan\'s biggest IT event hosted by FAST University.\n"" I am currently in charge of eight departments , which are:  \n"" \u2022 Media and Promotions \n"" \u2022 Creative Design \n"" \u2022 Ceremonies \n"" \u2022 Conferences \n"" \u2022 Creative Design Competition \n"" \u2022 Public Relation \n"" \u2022 Data Science Competition \n"" \u2022 Photography and Videography</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Software Engineer</string>
+    <string name="experience_description2">\u2713 Java for Blackberry SDK 7.1 \n\u2713 Java for Android\n\u2713 Sencha Touch 2 (HTML5)\n\u2713 SMTP Mail Configurations\n\u2713 CronJobs and Task Schedulers for Auto Execution of the Scripts at a given time.</string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="project_title">FamilyTime Parental Control</string>
+    <string name="project_description">\u2713 BookAttic | Online Book Store Management System.
+        \n\u2713 Made easy, flexible and visually aesthetic  UI/ UX so the user has ease in using the system.
+
+    </string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">Online BookStore Management System</string>
+    <string name="project_description1">"\u2713 A new take on the classic game loved by all. </string>
+    <string name="year1">(2019)</string>
+    <string name="project_title2">Candy Crush Game </string>
+    <string name="project_description2">\u2713 A replica of the famous mobile game</string>
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Central Model school</string>
+    <string name="intermediate_title">Intermediate</string>
+    <string name="college_title">Kinnaird College for Women, Lahore</string>
+    <string name="graduation_title">Bachelors in Computer Science (BSCS) </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">IEEE</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2015 – 2017)</string>
+    <string name="university_year">(2017 – Present)</string>
+    <string name="Cgpa"></string>
+    <string name="certification_courses_title">Publications</string>
+    <string name="institute_title">A parametric effort estimation model for mobile apps</string>
+    <string name="institute_year">(2016)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">C++</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Android</string>
+    <string name="skill_title_4">C</string>
+    <string name="skill_title_5">Javascript</string>
+    <string name="skill_title_6">SQL/.NET </string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose to teach:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" Teaching does not finish when we give our students the information, it can be acquired from many sources, but the ability to think, reason and criticize can only be incorporated if we foster and encourage them through thick and thin.</string>
+    <string name="why_i_did_choose_work_3">"\u2713" Client based company, so considering the requirements from clients and keeping in point latest technology at that time I used above technology stack. </string>
+    <string name="company_name1">YumyApps Pvt Ltd</string>
+    <string name="experience_time1">December 2018 - April 2019</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">Assistant Vice President</string>
+    <string name="experience_time2">September 2019 - Present</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">MobilezApp inc</string>
+    <string name="experience_time3">August 2018 - January 2019</string>
+    <string name="experience_time4">August 2017 - January 2018</string>
+    <string name="worked_on3">Worked On:</string>
+
+
+</resources>
